@@ -2,3 +2,12 @@
 @import url('./layout/base.css');
 @import url('./layout/fonts.css');
 @import url('./blocks/animation.css');
+@import url('./blocks/tidings.css');
+@import url('./blocks/header.css');
+@import url('./blocks/pagination.css');
+@import url('./blocks/footer.css');
+@import url('./blocks/reviews.css');
+@import url('./blocks/logo.css');
+@import url('./blocks/partners.css');
+@import url('./blocks/services.css');
+@import url('./blocks/breadcrumbs.css');

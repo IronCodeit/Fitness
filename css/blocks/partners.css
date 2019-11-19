@@ -1,0 +1,27 @@
+.partners {
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners__item:not(:last-child) {
+    margin-bottom: 50px;
+}
+
+.partners__title {
+    color: #221f1f;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.38px;
+    margin-bottom: 53px;
+}

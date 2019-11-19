@@ -1,0 +1,18 @@
+.reviews__item {
+    display: flex;
+}
+
+.reviews__img_pic {
+    width: 174px;
+    height: 174px;
+    display: block;
+    border-radius: 50%;
+}
+
+.reviews__img {
+    margin-right: 20px;
+}
+
+.reviews__desk {
+    flex-basis: 644px;
+}

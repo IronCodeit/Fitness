@@ -34,3 +34,37 @@ p {
 ul li {
     list-style-type: none;
 }
+
+.page-block {
+    display: flex;
+}
+
+.sidebar {
+    width: 24%;
+    margin-right: 20px;
+}
+
+.main__block {
+    display: flex;
+    flex-direction: column;
+    width: 76%;
+}
+
+.main-page {
+    flex: 1;
+}
+
+.container {
+    width: 1183px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.title {
+    color: #221f1f;
+    font-size: 49px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.47px;
+    margin-bottom: 36px;
+}

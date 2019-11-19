@@ -1,0 +1,24 @@
+.footer {
+    background-color: #131415;
+}
+
+.footer__container {
+    height: 77px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__desk {
+    flex-basis: 240px;
+    color: #fff;
+}
+
+.school {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.author {
+    font-weight: 700;
+}
