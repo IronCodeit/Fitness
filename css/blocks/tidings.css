@@ -1,0 +1,10 @@
+.tidings__item {
+    display: flex;
+}
+
+.tidings__img {
+    width: 171px;
+    height: 170px;
+    display: block;
+    border-radius: 50%;
+}
